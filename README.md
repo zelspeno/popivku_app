@@ -1,7 +1,7 @@
 # По пивку? 🍻
 
 
-![image](https://user-images.githubusercontent.com/75141607/235731066-4427258b-753b-4446-a909-d97737713714.png)
+![image](https://github.com/zelspeno/popivku_app/assets/75141607/bb1a2975-58dd-45dd-9dfa-dca45cb613a5)
 
 # Обновления 🍻
 
